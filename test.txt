@@ -1,0 +1,177 @@
+Numberly aide ses clients à collecter, analyser et mettre à profit leurs données à travers tous les canaux marketing. Pour cela, nous sommes plus de 100 ingénieurs (un quart de Numberly) répartis en équipes à dimension humaine, où nous nous assurons que chacun développe une influence positive et puisse être autonome. Notre croissance soutenue nous pousse à constamment remettre en question nos choix techniques et organisationnels.
+
+Avec sept bureaux dans le monde et des clients dans plus de cinquante pays, nos enjeux sont globaux.
+
+De par notre large gamme de produits interconnectés, nos enjeux techniques sont très variés et souvent complexes. Nos missions quotidiennes consistent à traiter des milliers de requêtes par seconde, distribuées à travers le monde, opérer des bases de données de plusieurs pétaoctets (Big Data™), automatiser l’ensemble de notre infrastructure bare-metal, et construire les interfaces du marketing digital de demain.
+Profil recherché
+
+Description du poste
+
+En tant que Chef de projets chez Numberly, vous serez en charge :
+* En interne : de créer du lien entre les équipes business (Marketing, Media Traders, Legal) et les équipes techniques (Data Scientists, Data Engineers, DevOps, Data Analysts) 
+* En externe : de traduire les besoins clients en solutions concrètes 
+
+Votre mission, si vous l’acceptez :
+En interne
+Vous participerez à l’implémentation de notre roadmap technique en :
+* Définissant le cahier des charges et le planning de vos différents projets 
+* Suivant leur bonne livraison et leur qualité. 
+* Assurant une veille technologique sur les outils du marché (Appnexus, Google, Facebook, etc.), et en vous adaptant aux nouvelles versions 
+ 
+Exemples de projets sur lesquels vous pourriez travailler :
+* Participer à la conception d’une interface de data visualization 
+* Industrialiser un algorithme de NLP développé par nos data scientists 
+* Implémenter un nouvel outil d’automatisation pour permettre l’accès des équipes business à la data 
+* Construire un process d’alimentation de données en temps réel 
+ 
+En externe
+Vous interagissez quotidiennement avec des clients et prospects en :
+* Répondant à leurs besoins via nos produits : DMP, Trading, CRM Programmatique 
+* Construisant des relations durables :
+* Production quotidienne (analyse de données, visualisation de données, implémentation de liens de tracking) 
+* Calls et réunions régulières avec vos clients 
+* Gestion des imprévus 
+* Développant de nouveaux partenariats / connecteurs avec des plateformes techniques pour répondre aux besoins internes 
+ 
+Pour mener à bien ces missions, vous travaillerez avec des équipes expertes utilisant quotidiennement des technologies de pointe, de Python, MongoDB, Hadoop à ScyllaDB et Kafka. Vous aurez une vue d’ensemble de notre infrastructure entièrement internalisée, de la collecte à l’activation de la donnée.
+
+
+Qualifications
+
+* Vous êtes en cours d'obtention d'un Bac+5 (université, école d’ingénieur, école de commerce) 
+* Vous êtes ingénieux-se, patient-e et attentif-ve 
+* Vous n’avez pas peur de saisir les opportunités d’améliorations 
+* Vous êtes rigoureux-se et attentif-ve aux détails 
+* Vous êtes curieux-se et apprenez vite 
+* Vous êtes pragmatique et savez réfléchir rapidement 
+C’est un plus…
+* Vous avez un fort intérêt pour le web et le data marketing 
+* Vous êtes déjà familier avec les acteurs du marché et leurs outils 
+* Vous maitrisez SQL 
+* Vous comprenez JavaScript, et/ou Python 
+* Vous avez déjà une expérience en gestion de projet 
+* Vous avez envie de prouver à vos collègues votre supériorité à Mario Kart 
+ 
+Contrat : stage ou alternance, possibilité d'embauche en fin de contrat.
+
+
+Informations complémentaires
+
+Même à 500, on prend le temps de partager !
+* Lors des fameux “Happy Meetings” parisiens suivis en visio par toutes les équipes dans le monde pour partager l’actualité du groupe
+* En se glissant - temporairement - dans la peau de ses collègues avec les "Vis ma vie"
+* Et bien sûr, lors des apéros, des cours de yoga, des meetups techniques, des barbecues, de la MMCup (un long week-end d’activités au soleil)... et bien plus encore !
+
+
+
+À propos de Numberly (1000mercis group)
+
+Numberly (1000mercis group), Marketing Technologist, met la data au service de la relation client. Le groupe permet aux entreprises de comprendre les besoins de leurs prospects et clients et d'interagir avec chacun de manière performante et pertinente.
+
+ 
+
+Ses experts en orchestration omnicanal, en activation programmatique et en plateformes conversationnelles développent et mettent en place des expériences à fort impact.
+
+Avec des équipes à Paris, Londres, Milan, Amsterdam, Dubaï, Montréal et New York, Numberly opère dans plus de 50 pays : le groupe, résolument international, poursuit son expansion depuis bientôt 20 ans. Plus de 500 collaborateurs contribuent tous les jours à la qualité d'exécution et la satisfaction client, en restant curieux, agile et innovants, un état d'esprit qui anime Numberly.
+
+ 
+
+Date de création: Février 2000
+
+Chiffre d'affaires en 2019: 69,2M€ "
+
+
+
+Outmind est une jeune startup créant un moteur de recherche intelligent. Dans la jungle des outils informatiques d'entreprise, notre technologie permet de retrouver la bonne information, ou la bonne personne la détenant, permettant à nos utilisateurs de réduire de 4 à 5h le temps passé à faire des recherches d'information chaque semaine.
+
+Nous sommes une petite équipe de passionnés, située à station F, et également accélérée au sein de l'incubateur de l'Ecole Polytechnique.
+
+Nos valeurs sont la simplicité, la transparence, l’ambition, et la passion. Nous sommes ouverts à toutes les bonnes idées : pas de hiérarchie écrasante chez nous, tes suggestions seront les bienvenues. Nous avons une ambition qui va bien au delà du développement d’un seul produit : rejoindre Outmind c'est intégrer une équipe et un projet technologique qui souhaitent dépoussiérer et révolutionner les pratiques de vieux éditeurs logiciels et rendre simple l'univers complexe des applications d'entreprise.
+Descriptif du poste
+
+Nous recherchons un profil de NLP Data Scientist pour rejoindre notre équipe Engineering lors d'un stage de fin d'études ou d'une alternance. Rejoins une entreprise à la pointe des sujets de NLP et de Data Science pour travailler sur un moteur de recherche intelligent. Avec Outmind, les entreprises synchronisent de larges ensembles de données textuelles, du simple message Slack aux documentations techniques de 200 pages. Avec un tel volume de données, les applications possibles en NLP sont presque sans limites.
+
+Missions :
+
+    Deviens un membre à part entière de l’équipe engineering d'Outmind
+    Travaille avec les dernières technologies : TensorFlow, BERT, Hugging Face ...
+    Écris du code qui partira en production pour nos clients sur notre plateforme principale
+    Deviens un expert d’une partie du code, autonome pour la développer et l’optimiser
+
+Avantages :
+
+    Horaires flexibles / télétravail ponctuel (1 jour/semaine)
+    Intégration à l'environnement stimulant de Station F
+    Autonomie importante sur votre scope
+    50% titre de transport
+
+Profil recherché
+
+Tu disposes d'au moins une première expérience professionnelle de 6 mois, qui t'a permis de découvrir la Data Science appliquée aux problèmes d'entreprise. Point bonus si c'était une expérience en NLP plus précisément. Tu valides également les points suivants :
+
+    BAC+5 école d'ingénieur généraliste ou d'ingénieur informaticien
+    Connaissances avancées en Python, langage de travail quotidien du Data Scientist
+    Connaissance du MLOps (les méthodes pour faire partir de la Data Science en production)
+    Autonome, curieux(se) et passionné(e) de nouvelles technologies
+    La connaissance des solutions cloud et/ou d'ElasticSearch est un plus
+    Capacité à synthétiser rapidement et à proposer des solutions innovantes
+    Français et anglais courant
+
+Process de recrutement
+
+    Questionnaire de découverte (5-10 min)
+    Entretien de découverte avec les fondateurs à Station F (1 heure)
+    Entretien technique avec le CTO à Station F (1 heure 30)
+
+Informations complémentaires
+
+    Type de contrat : Stage (6 mois)
+    Date de début : 07 septembre 2020
+    Lieu : Paris, France (75008)
+    Niveau d'études : Bac +5 / Master
+    Expérience : > 6 mois
+    Télétravail ponctuel autorisé
+
+
+À propos
+
+Zelros est un éditeur de logiciels qui développe une Intelligence Artificielle pour les assureurs fondée par Christophe, Fabien et Damien, 3 serial entrepreneurs experts de la Data, du Machine Learning et du Digital.
+
+Zelros double de taille chaque année. Notre solution est utilisée quotidiennement par des assureurs comme AXA, CBP Group, MAIF, Natixis Assurances, Groupama...
+Descriptif du poste
+
+Vous serez encadré par un Data Scientist senior, et vous mènerez des travaux de recherche appliquée en machine learning, qui auront vocation à devenir les futures fonctions innovantes de la solution Zelros.
+
+Avec nous, vous :
+
+    Étudierez l’état de l’art des modèles basés sur les Transformers, et leurs applications dans la résolution de tâches utiles pour le produit Zelros,
+    Mettrez en oeuvre les approches à base de Transformers telles que BERT, et évaluerez leur valeur ajoutée dans le contexte de Zelros, y compris par comparaison avec d’autres librairies telles que PyText (Facebook),
+    Entrainerez vos propres Transformers sur des corpus disponibles ou à synthétiser. Des serveurs GPU seront mis à disposition,
+    Assurez une veille technologique sur l’état de l’art en NLP (participation aux conférences, lecture et résumé des publications récentes, …),
+    Ferez rayonner le savoir faire de Zelros en NLP (intervention lors de talks, participation à des concours, blogs techniques, soumission de papiers de recherche, ….),
+    Contribuerez à la diffusion de la connaissance au sein de l’équipe R&D.
+
+Profil recherché
+
+Vous avez le profil si :
+
+    Vous êtes issu d’une formation spécialisée en machine learning,
+    Vous maîtrisez la théorie et la pratique de certaines techniques de NLP les plus modernes: RNN,…,
+    Vous savez travailler avec PyTorch et des GPU,
+    Vous êtes curieux, créatif et vous aimez faire partager vos connaissances.
+
+C’est un plus si:
+
+    Vous avez un Github étoilé,
+    Vous participez régulièrement à des meetups spécialisés deep learning / NLP.
+
+Process de recrutement
+
+Un entretien visio/call RH + 1 test technique + 1 entretien
+Informations complémentaires
+
+    Type de contrat : Stage
+    Lieu : Paris, France (75013)
+    Niveau d'études : Bac +5 / Master
+    Expérience : < 6 mois
+
